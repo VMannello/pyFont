@@ -1,0 +1,3 @@
+# pyFont
+Use the Cocoa python libray to list active fonts in OSX environment. Helpful for slow computers...
+
